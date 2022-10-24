@@ -1,0 +1,23 @@
+#ctverec
+{
+width: 1px;
+background-color: blueviolet;
+}
+
+
+html
+{
+    background-color: blueviolet;
+}
+
+
+#link_count
+{
+color: rgb(7, 0, 0);
+border: 10px solid black;
+width: 25%;
+text-align: center;
+}
+
+
+
